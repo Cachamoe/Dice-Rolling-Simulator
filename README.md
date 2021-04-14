@@ -1,7 +1,7 @@
-# New-Project-TBD
+# Dice Rolling Simulator
 ![]()
 ## Overview
-This application allows users to 
+This application allows users to "roll" the dice!
 
 ## Application Features
 1) 
