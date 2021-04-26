@@ -6,3 +6,4 @@ for _ in range(1):
 	randomNumber = randint(1, 6)
 
 print(randomNumber)
+print("Would you like to roll again?")
