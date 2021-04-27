@@ -1,5 +1,5 @@
 # Dice Rolling Simulator
-![]()
+![](https://github.com/Cachamoe/Dice-Rolling-Simulator/blob/main/Screen%20Shot%202021-04-26%20at%2010.13.54%20AM.png)
 ## Overview
 This application allows users to "roll" the dice!
 
